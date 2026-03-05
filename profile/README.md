@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Federated intelligence infrastructure for sovereign AI systems.</strong><br>
+  <strong>The Autonomous Operating System for the Sovereign Enterprise.</strong><br>
   <sub>Open-source runtime, security tooling, and multi-agent orchestration.</sub>
 </p>
 
@@ -24,9 +24,11 @@
 
 ## About
 
-**Multinex** builds federated AI infrastructure — systems where agents operate with persistent memory, multi-model orchestration, and sovereign data ownership. Our stack is designed for teams that need AI tooling they fully control: no cloud lock-in, no black-box APIs, no data leaving your perimeter.
+**Multinex AI** provides the complete infrastructure stack for enterprises to deploy, govern, and scale autonomous AI agents — on their own hardware, with their own data, under their own rules. 
 
-We maintain the **MARS** (Multi-Agent Runtime System) platform and a growing ecosystem of open-source security and orchestration tools.
+We build the **Autonomous Operating System for the Sovereign Enterprise**. Our systems are designed for teams that need AI tooling they fully control: no cloud lock-in, no black-box APIs, and absolute data sovereignty.
+
+We maintain the **MARS** (Multi-Agent Runtime System) platform and a growing ecosystem of open-source security, orchestration, and compliance tools.
 
 ---
 
@@ -137,7 +139,7 @@ We welcome contributions across all public repositories. See each project's `CON
 
 <p align="center">
   <sub>
-    <strong>Multinex</strong> · Federated Intelligence Infrastructure<br>
+    <strong>Multinex AI</strong> · The Autonomous Operating System for the Sovereign Enterprise<br>
     <a href="https://github.com/multinex-ai">GitHub</a>
   </sub>
 </p>
